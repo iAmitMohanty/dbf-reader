@@ -18,7 +18,7 @@ The DBF Reader using C# WinForms project demonstrates the functionality to:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/dbf-reader-csharp-winforms.git`
+1. Clone the repository: `git clone https://github.com/iAmitMohanty/dbf-reader.git`
 2. Open the project in Visual Studio or your preferred C# IDE.
 3. Build the project to resolve dependencies.
 4. Run the application.
